@@ -6,3 +6,5 @@ requests
 google-generativeai 
 django-cors-headers
 trafilatura
+gunicorn 
+gunicorn backend.wsgi --log-file -
