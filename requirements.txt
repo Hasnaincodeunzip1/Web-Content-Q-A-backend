@@ -7,4 +7,4 @@ google-generativeai
 django-cors-headers
 trafilatura
 gunicorn 
-
+dj_database_url
